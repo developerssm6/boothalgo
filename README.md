@@ -2,7 +2,7 @@
 Booth Algorithm C progam template
 
 Bit store order
-5 => 00000101 => [1,0,1,0,0,0,0,0]
+5 => 00000101 => [1,0,1,0,0,0,0,0]  
                   L . . . . . . M
 traverse form lsb to msb
  
